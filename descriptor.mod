@@ -6,5 +6,5 @@ tags={
 	"Overhaul"
 }
 name="Xenology : Traits Expansion Neo - Bio Module"
-supported_version="2.8.*"
+supported_version="3.2.2"
 remote_file_id="2403756280"
